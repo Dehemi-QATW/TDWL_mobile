@@ -114,7 +114,7 @@ code {
     overflow:auto;
 }
 div.pagecontent{
-	width:1000px;
+	width:500px;
 	height:500px;
-	border:15px solid red;
+	border:5px solid red;
 }
